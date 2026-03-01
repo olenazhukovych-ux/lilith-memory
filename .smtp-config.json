@@ -1,0 +1,16 @@
+{
+  "accounts": {
+    "support": {
+      "email": "support@culinary.com.ua",
+      "appPassword": "nmmk epej njbr ydsy",
+      "smtp": "smtp.gmail.com",
+      "port": 587
+    },
+    "iryna": {
+      "email": "iryna@culinary.com.ua",
+      "appPassword": "auwn mbfc inmd ehzm",
+      "smtp": "smtp.gmail.com",
+      "port": 587
+    }
+  }
+}
