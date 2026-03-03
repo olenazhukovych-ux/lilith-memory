@@ -1274,3 +1274,7 @@ OK|nnebo1993@gmail.com|2026-03-03T19:59:03.130546|wave1
 OK|vlada.romanovskaya@gmail.com|2026-03-03T19:59:07.462106|wave1
 OK|kristinalinkova19@gmail.com|2026-03-03T19:59:09.617950|wave1
 OK|olya.mykytiv@gmail.com|2026-03-03T19:59:11.874628|wave1
+OK|tinshuai@icloud.com|2026-03-03T19:59:16.138942|wave1
+OK|ksyusha0805batrakova@gmail.com|2026-03-03T19:59:19.377673|wave1
+OK|epuzatko@gmail.com|2026-03-03T19:59:21.593127|wave1
+ERR|spodarko.t@gmail.com|2026-03-03T19:59:23.282532|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
