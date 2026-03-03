@@ -1912,3 +1912,7 @@ OK|anna.latyk@icloud.com|2026-03-03T14:14:39.861661|new-offer
 OK|marina.baglay@gmail.com|2026-03-03T14:14:43.229474|new-offer
 OK|anna.krisanowa@gmail.com|2026-03-03T14:14:45.516016|new-offer
 ERR|novafemida@gmail.com|2026-03-03T14:14:47.210389|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|novafemida@gmail.com|2026-03-03T14:54:12.472749|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|novafemida@gmail.com|2026-03-03T14:54:13.089482|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|novafemida@gmail.com|2026-03-03T14:54:21.542517|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|novafemida@gmail.com|2026-03-03T14:54:22.159425|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
