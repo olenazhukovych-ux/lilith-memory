@@ -1498,3 +1498,22 @@ OK|vladimirovna2609@ukr.net|2026-03-03T12:57:47.214637|new-offer
 OK|vitavyshynska@icloud.com|2026-03-03T12:57:49.539666|new-offer
 OK|shipilo.d@gmail.com|2026-03-03T12:57:51.821580|new-offer
 ERR|kravchuk1329.d@gmail.com|2026-03-03T12:57:53.504973|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|yaninamiron15@gmail.com|2026-03-03T12:59:42.984734|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+OK|yaninamiron15@gmail.com|2026-03-03T12:59:44.354473|new-offer
+OK|dobronravovaanastasiia@gmail.com|2026-03-03T12:59:46.614803|new-offer
+OK|dashasolodkaja@gamil.com|2026-03-03T12:59:49.914962|new-offer
+OK|violetta.yakymchuk@gmail.com|2026-03-03T12:59:54.230090|new-offer
+OK|unp1707@gmail.com|2026-03-03T12:59:56.427933|new-offer
+OK|anastasiia.prytyka@gmail.com|2026-03-03T12:59:59.754474|new-offer
+OK|pryanichnikova64@gmail.com|2026-03-03T13:00:03.225893|new-offer
+OK|holinkoivanna@gmail.com|2026-03-03T13:00:07.638811|new-offer
+OK|tetty010@gmail.com|2026-03-03T13:00:12.193525|new-offer
+OK|ngavrilko44@gmail.com|2026-03-03T13:00:14.591300|new-offer
+OK|yuliaglu988@gmail.com|2026-03-03T13:00:16.970992|new-offer
+OK|margarinchik2013@gmail.com|2026-03-03T13:00:19.372161|new-offer
+OK|nataliia4000@gmail.com|2026-03-03T13:00:22.096473|new-offer
+OK|nata206nmc@ukr.net|2026-03-03T13:00:24.440585|new-offer
+OK|innulechka@icloud.com|2026-03-03T13:00:26.853415|new-offer
+OK|a.baranova@ukr.net|2026-03-03T13:00:30.358198|new-offer
+OK|equinox.88@icloud.com|2026-03-03T13:00:32.817920|new-offer
+OK|vasilets.ekaterina0108@gmail.com|2026-03-03T13:00:36.258956|new-offer
