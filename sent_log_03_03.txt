@@ -1425,3 +1425,5 @@ OK|katia.boiko29@gmail.com|2026-03-03T10:36:26.902307|new-offer
 OK|in.mykhalska@gmail.com|2026-03-03T10:36:29.175001|new-offer
 ERR|yaninamiron15@gmail.com|2026-03-03T10:36:30.757807|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
 ERR|yaninamiron15@gmail.com|2026-03-03T10:36:31.479016|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|nhrynyk39@gmail.com|2026-03-03T11:25:05.087861|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|nhrynyk39@gmail.com|2026-03-03T11:25:05.607740|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
