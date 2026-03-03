@@ -472,3 +472,6 @@ OK|makktop@icloud.com|2026-03-03T07:19:11.945720|new-offer
 OK|37450179@ukr.net|2026-03-03T07:19:14.111116|new-offer
 ERR|slobodyan.olya.2006@gmail.com|2026-03-03T07:19:15.654313|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
 ERR|slobodyan.olya.2006@gmail.com|2026-03-03T07:19:16.473650|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+OK|nhrynyk39@gmail.com|2026-03-03T09:59:40.527276|new-offer
+OK|allo4ka_k@ukr.net|2026-03-03T09:59:42.811238|new-offer
+OK|galyna.bilooka@gmail.com|2026-03-03T09:59:44.986997|new-offer
