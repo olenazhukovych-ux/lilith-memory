@@ -2706,3 +2706,5 @@ OK|yana_tilg@mail.ru|2026-03-04T14:14:34.414237|wave1
 OK|yana_tilg@mail.ru|2026-03-04T14:14:36.026199|wave1
 ERR|tamara.kalapa@gmail.com|2026-03-04T14:14:36.116929|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
 ERR|tamara.kalapa@gmail.com|2026-03-04T14:14:37.728932|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|adrianashaniuk97@gmail.com|2026-03-04T15:22:34.369576|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|adrianashaniuk97@gmail.com|2026-03-04T15:22:34.945135|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
