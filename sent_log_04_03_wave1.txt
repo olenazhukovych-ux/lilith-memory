@@ -690,3 +690,5 @@ OK|vaskasvistak28@gmail.com|2026-03-04T16:31:14.423461|wave1-d2
 OK|bityukov2006@ukr.net|2026-03-04T16:31:16.742258|wave1-d2
 OK|chelpan.elvira@gmail.com|2026-03-04T16:31:19.108777|wave1-d2
 ERR|anyadibrova2@gmail.com|2026-03-04T16:31:20.809698|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|anyadibrova2@gmail.com|2026-03-04T17:31:21.440275|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|anyadibrova2@gmail.com|2026-03-04T17:31:21.918780|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
