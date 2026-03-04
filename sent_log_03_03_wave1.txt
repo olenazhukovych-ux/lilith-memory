@@ -1278,3 +1278,7 @@ OK|tinshuai@icloud.com|2026-03-03T19:59:16.138942|wave1
 OK|ksyusha0805batrakova@gmail.com|2026-03-03T19:59:19.377673|wave1
 OK|epuzatko@gmail.com|2026-03-03T19:59:21.593127|wave1
 ERR|spodarko.t@gmail.com|2026-03-03T19:59:23.282532|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|halfimbul10@icloud.com|2026-03-04T04:59:24.505849|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|halfimbul10@icloud.com|2026-03-04T04:59:26.151823|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|halfimbul10@icloud.com|2026-03-04T05:29:26.440391|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|halfimbul10@icloud.com|2026-03-04T05:29:28.071795|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
