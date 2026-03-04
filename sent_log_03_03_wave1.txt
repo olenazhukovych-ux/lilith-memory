@@ -2294,3 +2294,7 @@ OK|janna06011992@gmail.com|2026-03-04T11:19:25.935570|wave1
 OK|meliraleo7@gmail.com|2026-03-04T11:19:28.155151|wave1
 ERR|seredukolena81@gmail.com|2026-03-04T11:19:29.702943|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
 ERR|seredukolena81@gmail.com|2026-03-04T11:19:30.209408|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|spodarko.t@gmail.com|2026-03-04T12:08:07.241132|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|spodarko.t@gmail.com|2026-03-04T12:08:07.749761|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|spodarko.t@gmail.com|2026-03-04T12:08:10.119237|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|spodarko.t@gmail.com|2026-03-04T12:08:10.642770|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
