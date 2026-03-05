@@ -2115,3 +2115,5 @@ OK|shpak.nataliya7320@gmail.com|2026-03-05T13:47:56.132233|wave1
 OK|svit.social@gmail.com|2026-03-05T13:47:58.436482|wave1
 OK|boya.natalina@gmail.com|2026-03-05T13:48:00.820073|wave1
 ERR|mykola.klym@gmail.com|2026-03-05T13:48:02.516128|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|victoriasergeyeva@ukr.net|2026-03-05T14:38:03.244311|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|victoriasergeyeva@ukr.net|2026-03-05T14:38:03.839380|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
