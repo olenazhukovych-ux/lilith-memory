@@ -684,3 +684,5 @@ ERR|olgabir96@gmail.com|2026-03-05T07:51:54.549926|(550, b'5.4.5 Daily user send
 ERR|olgabir96@gmail.com|2026-03-05T07:51:56.045436|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
 ERR|anyakravaanya@gmail.com|2026-03-05T07:52:12.634615|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
 ERR|anyakravaanya@gmail.com|2026-03-05T07:52:14.158856|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|anastasia.trotsyk@gmail.com|2026-03-05T08:42:14.465030|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+ERR|anastasia.trotsyk@gmail.com|2026-03-05T08:42:15.198065|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
