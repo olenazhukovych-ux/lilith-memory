@@ -4341,3 +4341,5 @@ OK|mariagrebeniuk@gmail.com|2026-03-06T09:59:28.502852|wave1
 OK|dianaostrovska2904@gmail.com|2026-03-06T09:59:30.792182|wave1
 OK|snizhana.bohoieva@gmail.com|2026-03-06T11:59:26.348708|wave1
 OK|edkiy@i.ua|2026-03-06T11:59:28.655118|wave1
+OK|lizaperepelitsa24@gmail.com|2026-03-06T14:59:24.587618|wave1
+OK|kostyalaroche@gmail.com|2026-03-06T14:59:27.139236|wave1
