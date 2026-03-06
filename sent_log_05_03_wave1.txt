@@ -4337,3 +4337,5 @@ ERR|www.lerausachova@gmail.com|2026-03-06T08:26:10.727006|(550, b'5.4.5 Daily us
 ERR|iramayorova558@gmail.com|2026-03-06T08:30:22.224320|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
 OK|iramayorova558@gmail.com|2026-03-06T08:30:23.279812|wave1
 ERR|ira.rebenok@mail.ru|2026-03-06T08:30:25.082535|(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n
+OK|mariagrebeniuk@gmail.com|2026-03-06T09:59:28.502852|wave1
+OK|dianaostrovska2904@gmail.com|2026-03-06T09:59:30.792182|wave1
