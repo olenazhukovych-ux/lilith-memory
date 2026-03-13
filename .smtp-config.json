@@ -11,6 +11,18 @@
       "appPassword": "auwn mbfc inmd ehzm",
       "smtp": "smtp.gmail.com",
       "port": 587
+    },
+    "gastro": {
+      "email": "gastro.project.ua@gmail.com",
+      "appPassword": "aqyj holk iowt ymjk",
+      "smtp": "smtp.gmail.com",
+      "port": 587
+    },
+    "olya": {
+      "email": "olya.martynovskaya@gmail.com",
+      "appPassword": "umgb agqe blht utvv",
+      "smtp": "smtp.gmail.com",
+      "port": 587
     }
   }
 }
