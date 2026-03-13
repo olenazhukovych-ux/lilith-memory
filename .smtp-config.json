@@ -29,6 +29,13 @@
       "appPassword": "kole tboa gxab rnqk",
       "smtp": "smtp.gmail.com",
       "port": 587
+    },
+    "nai": {
+      "email": "info@nai.restaurant",
+      "appPassword": "woxt ocuz dqlp rybc",
+      "smtp": "smtp.gmail.com",
+      "port": 587,
+      "_note": "NAI Restaurant ONLY. NEVER use for Culinary Academy!"
     }
   }
 }
