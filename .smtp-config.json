@@ -1,0 +1,28 @@
+{
+  "accounts": [
+    {
+      "email": "support@culinary.com.ua",
+      "password": "idaqfjgvzlycxjiz",
+      "imap_host": "imap.gmail.com",
+      "smtp_host": "smtp.gmail.com",
+      "smtp_port": 587,
+      "purpose": "Академія — основна"
+    },
+    {
+      "email": "iryna@culinary.com.ua",
+      "password": "oymoyevavbucaccx",
+      "imap_host": "imap.gmail.com",
+      "smtp_host": "smtp.gmail.com",
+      "smtp_port": 587,
+      "purpose": "Академія — Ірина"
+    },
+    {
+      "email": "info@nai.restaurant",
+      "password": "woxtocuzdqlprybc",
+      "imap_host": "imap.gmail.com",
+      "smtp_host": "smtp.gmail.com",
+      "smtp_port": 587,
+      "purpose": "NAI Restaurant ONLY"
+    }
+  ]
+}
