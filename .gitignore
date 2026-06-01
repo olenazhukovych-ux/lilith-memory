@@ -1,0 +1,10 @@
+*.pdf
+*.csv
+*.zip
+*.tar.gz
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+.env
+node_modules/
