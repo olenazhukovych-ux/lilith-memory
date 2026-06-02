@@ -20,6 +20,9 @@
 8. Тайська кухня — https://drive.google.com/file/d/1z7erzW9tdZzP2E2KnsETbAWeBdMWy0sD/view
 9. Французька кухня — https://drive.google.com/file/d/1wqOJmcJhYj_pzQYA5k5E9jBM9KkMb7dc/view
 
+## 100 рецептів на кожен день (100recipes.com.ua)
+- 100 рецептів на кожен день — https://drive.google.com/file/d/1KMkAaKmkXE0SGM3XSYqsytXWN1DEHmO-/view
+
 ## Кулінарний 3
 1. Джеми і консервація — https://drive.google.com/file/d/140-pPgS3YbL9V-RHtIi87Rc6dX2KOpBq/view
 2. Крафтовий сир — https://drive.google.com/file/d/134_Ttp4GcUFOi7nxBCMvgua_J2q5mVyn/view
