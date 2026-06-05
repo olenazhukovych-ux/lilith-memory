@@ -76,6 +76,7 @@
 ## Не контактувати
 - Надежда (nadezhdarozhko@icloud.com)
 - Пожиттєвий доступ: tatly.kolien@gmail.com, anka1999.2010x@gmail.com
+- oleksii.mychka@gmail.com — повний чорний список, жодних листів ніколи
 
 ## Невідповідані
 - Аліса Дияк (alunia2010@hotmail.com) — просить продовжити кондитерський курс, чекаємо вказівку Олени
