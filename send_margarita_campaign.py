@@ -119,7 +119,7 @@ def main():
     
     # Read CSV
     rows = []
-    with open(CSV_PATH, encoding='utf-8') as f:
+    with open(CSV_PATH, encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
         for row in reader:
             email = row.get('Email', '').strip().lower()
@@ -128,7 +128,7 @@ def main():
             if email and offer:
                 rows.append((email, name_raw))
     
-    print(f'Рядків з пропозицією: {len(rows)}')
+    print(f'Рядків з пропозицією: {len(rows)}', flush=True)
     
     sent = 0
     skipped_dup = 0
@@ -172,20 +172,39 @@ def main():
             save_log(log)
             
             if sent % 50 == 0:
-                print(f'Прогрес: {sent} відправлено')
+                print(f'Прогрес: {sent} відправлено', flush=True)
             
             # Pause logic
             if sent % 200 == 0:
-                print(f'Пауза 60с після {sent} листів...')
+                print(f'Пауза 60с після {sent} листів...', flush=True)
                 time.sleep(60)
             else:
                 time.sleep(3)
                 
+        except smtplib.SMTPResponseException as e:
+            err_msg = f'{email}: {str(e)}'
+            errors.append(err_msg)
+            print(f'ПОМИЛКА: {err_msg}', flush=True)
+            if e.smtp_code == 550 and b'Daily user sending limit' in (e.smtp_error if isinstance(e.smtp_error, bytes) else str(e.smtp_error).encode()):
+                print('Досягнуто денний ліміт відправки Gmail. Зупиняємось.', flush=True)
+                break
+            # Reconnect on other errors
+            try:
+                smtp.quit()
+            except:
+                pass
+            try:
+                smtp = smtplib.SMTP(SMTP_HOST, SMTP_PORT)
+                smtp.starttls()
+                smtp.login(SMTP_USER, SMTP_PASS)
+            except Exception as e2:
+                print(f'SMTP reconnect failed: {e2}')
+                break
+            time.sleep(5)
         except Exception as e:
             err_msg = f'{email}: {str(e)}'
             errors.append(err_msg)
-            print(f'ПОМИЛКА: {err_msg}')
-            # Reconnect on error
+            print(f'ПОМИЛКА: {err_msg}', flush=True)
             try:
                 smtp.quit()
             except:
