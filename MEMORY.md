@@ -76,6 +76,7 @@
 ## Не контактувати
 - Надежда (nadezhdarozhko@icloud.com)
 - Пожиттєвий доступ: tatly.kolien@gmail.com, anka1999.2010x@gmail.com
+- Чорний список: vitaliy.vist@gmail.com (наказ Олени 11.06.2026 — ніколи нічого не відправляти)
 - oleksii.mychka@gmail.com — повний чорний список, жодних листів ніколи
 
 ## Невідповідані
