@@ -79,6 +79,7 @@
 - Чорний список: vitaliy.vist@gmail.com (наказ Олени 11.06.2026 — ніколи нічого не відправляти)
 - Чорний список: kseniamohyl@icloud.com, sofiamohylnytskaya@gmail.com, allaborduk@icloud.com (наказ Олени 11.06.2026)
 - oleksii.mychka@gmail.com — повний чорний список, жодних листів ніколи
+- helenchoka@yahoo.com — чорний список (наказ Олени 13.06.2026)
 
 ## Невідповідані
 - Аліса Дияк (alunia2010@hotmail.com) — просить продовжити кондитерський курс, чекаємо вказівку Олени
